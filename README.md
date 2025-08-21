@@ -10,3 +10,5 @@ This project involves conducting a comprehensive digital audit of a website, inc
 3. **Design**: Designed a landing page using WordPress...
    ## Project Outcome:
 By improving website design and digital marketing strategies..
+## Screenshots:
+![Website Screenshot](
