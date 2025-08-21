@@ -11,4 +11,4 @@ This project involves conducting a comprehensive digital audit of a website, inc
    ## Project Outcome:
 By improving website design and digital marketing strategies..
 ## Screenshots:
-![Website Screenshot](
+![Website Screenshot](https://github.com/Kishore2566a/Comprehensive-Audit-and-Analysis-for-Effective-Digital-Presence/blob/main/Screenshot%202025-08-19%20232418.png)
